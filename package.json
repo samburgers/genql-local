@@ -1,0 +1,15 @@
+{
+  "name": "genql-local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ./generate.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@genql/cli": "^6.2.1"
+  }
+}
